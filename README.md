@@ -8,3 +8,19 @@ this repository can help you download bilibili failarmy video
 
 未登录只能观看720p的视频噢，输入自己账号的cookie可下载到自己账号能看到的最高画质视频！  
 （4k视频除外>_<没找到4k视频的api{主要是没大会员}）
+
+若你是打算下载举例中的视频合集，恰好你又有百度网盘会员，那就可以直接下载了  
+下载举例：  
+C++[cherno][神经元猫]  
+https://space.bilibili.com/364152971/channel/collectiondetail?sid=13909  
+
+链接：https://pan.baidu.com/s/1XmFOfksDCTI48Tl24FG56A?pwd=489e 
+提取码：489e 
+
+
+超级小桀2022合集[1-75][11.5GB]  
+https://space.bilibili.com/29440965/channel/collectiondetail?sid=107573  
+
+链接：https://pan.baidu.com/s/1CNLKXJ69J-8spMjHZ4kUAA?pwd=day2 
+提取码：day2 
+
